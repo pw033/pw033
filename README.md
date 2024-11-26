@@ -1,5 +1,6 @@
 # Hi there, I'm Md Altamash 👋
 
+![Profile Banner](https://www.springboard.com/blog/wp-content/uploads/2022/06/coding-.png)) <!-- Add a banner -->
 ## About Me  
 Driven MERN Full Stack Developer with a knack for building dynamic and efficient web applications. Proficient in both frontend and backend development, with a focus on crafting seamless user experiences and scalable solutions. Always eager to embrace challenges, learn new technologies, and contribute to impactful projects. Excited to explore opportunities that foster growth and innovation.
 
