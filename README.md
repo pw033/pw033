@@ -1,6 +1,5 @@
 <div align="center">
-  <h2><span style="color: green;">Hi there, I'm </span></h2>
-  <h>2<span style="color: green;"> Md Altamash</span></h2>
+  <h1><span style="color👱‍♂️;">Hi there, I'm Md Atamash</span></h2>
 </div>
 <p align="center">
     <img src="web-developer-chilling.gif" alt="Centered GIF" width="500" height="300"/>
