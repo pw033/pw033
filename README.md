@@ -1,6 +1,11 @@
 <div align="center">
-  <b>Hi there, I'm Md Altamash</b>
+  <h1><span style="color: green;">Hi there, I'm Md Altamash</span></h1>
 </div>
+
+<p align="center">
+  <span style="color: blue;">This is a blue paragraph.</span>
+</p>
+
 <p align="center">
     <img src="web-developer-chilling.gif" alt="Centered GIF" width="500" height="300"/>
 </p>
