@@ -2,6 +2,10 @@
 
 ![Profile Banner](web-developer-chilling.gif) <!-- Add a banner -->
 ![Profile Banner](Vanilla@1x-0.6s-259px-43px.gif) <!-- Add a banner -->
+<p align="center">
+    <img src="Vanilla@1x-0.6s-259px-43px.gif" alt="Centered GIF" width="259" height="43"/>
+</p>
+
 ## About Me  
 Driven MERN Full Stack Developer with a knack for building dynamic and efficient web applications. Proficient in both frontend and backend development, with a focus on crafting seamless user experiences and scalable solutions. Always eager to embrace challenges, learn new technologies, and contribute to impactful projects. Excited to explore opportunities that foster growth and innovation.
 
