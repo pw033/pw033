@@ -1,4 +1,6 @@
-# Hi there, I'm Md Altamash 👋
+<h align="center">
+    # Hi there, I'm Md Altamash 👋
+</h>
 <p align="center">
     <img src="web-developer-chilling.gif" alt="Centered GIF" width="500" height="400"/>
 </p>
