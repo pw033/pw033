@@ -55,8 +55,8 @@ Thank you for visiting my profile! Feel free to connect or drop a message anytim
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/md-altamash)  
-- [Twitter](https://twitter.com/md_altamash)  
+- [LinkedIn](https://www.linkedin.com/in/md-altamash-b26947238/)  
+- [Twitter](https://twitter.com)  
 - [Portfolio](https://yourportfolio.com)
 
 ---
