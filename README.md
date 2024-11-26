@@ -1,6 +1,6 @@
 # Hi there, I'm Md Altamash 👋
 <p align="center">
-    <img src="web-developer-chilling.gif" alt="Centered GIF" width="400" height="400"/>
+    <img src="web-developer-chilling.gif" alt="Centered GIF" width="500" height="400"/>
 </p>
 <p align="center">
     <img src="Vanilla@1x-0.6s-259px-43px.gif" alt="Centered GIF" width="259" height="43"/>
