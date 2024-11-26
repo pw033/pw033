@@ -1,7 +1,7 @@
 # Hi there, I'm Md Altamash 👋
-
-![Profile Banner](web-developer-chilling.gif) <!-- Add a banner -->
-![Profile Banner](Vanilla@1x-0.6s-259px-43px.gif) <!-- Add a banner -->
+<p align="center">
+    <img src="web-developer-chilling.gif" alt="Centered GIF" width="259" height="43"/>
+</p>
 <p align="center">
     <img src="Vanilla@1x-0.6s-259px-43px.gif" alt="Centered GIF" width="259" height="43"/>
 </p>
