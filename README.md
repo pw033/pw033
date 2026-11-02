@@ -27,8 +27,8 @@ Driven MERN Full Stack Developer with a knack for building dynamic and efficient
 ---
 
 ## 🛠 Skills  
-- **Frontend**: HTML, CSS, JavaScript, React  
-- **Backend**: Node.js, Express  
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: java,Node.js, Express  
 - **Database**: MongoDB  
 - **Version Control**: Git, GitHub  
 - **Other Tools**: Postman, VS Code  
@@ -37,35 +37,27 @@ Driven MERN Full Stack Developer with a knack for building dynamic and efficient
 
 ## 📂 Projects  
 Check out my repositories to explore some of the projects I've worked on:  
-- [**Project Name**](#): A brief description of the project.  
-- [**Another Project**](#): Another brief description.
+- [**Maison Cafe**](https://maison-cafe-taupe.vercel.app/): It is basically Clone or added self idea for designing web page using HTML, CSS and JavaScript user friendly web you can explore the web on link given above.
+- [**Altron Music App**](https://altron-music-app.vercel.app/): This web is basically i tried to make an user interface and how function any music app so this a music application or web you called this is made by using HTML CSS and JavaScript for functioning thee music and animations.
+
+- For the rest Now i am working on a major projects that will appear here as soon as possible stay tuned.. Thank you...!
 
 ---
 
 ## 🌐 Let's Connect  
-- **GitHub**: [Your GitHub Profile Link](#)  
-- **LinkedIn**: [Your LinkedIn Profile Link](#)  
-- **Portfolio**: [Your Portfolio Link](#)  
+- **GitHub**: [Your GitHub Profile Link](https://github.com/pw033)  
+- **LinkedIn**: [Your LinkedIn Profile Link](https://www.linkedin.com/in/md-altamash-b26947238/)  
+- **Portfolio**: [Your Portfolio Link](https://pw033.github.io/My-Portfolio-Web/)  
 
 ---
 
 Thank you for visiting my profile! Feel free to connect or drop a message anytime. 😊  
 
-
-- **Project 1**: [Link to your project]
-  - Brief description of the project and tech stack used.
-  
-- **Project 2**: [Link to your project]
-  - Brief description of the project and tech stack used.
-
-- **Project 3**: [Link to your project]
-  - Brief description of the project and tech stack used.
-
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/md-altamash-b26947238/)  
-- [Twitter](https://twitter.com)  
-- [Portfolio](https://yourportfolio.com)
+- [Twitter](https://x.com/Altamashwish)  
+- [Portfolio](https://pw033.github.io/My-Portfolio-Web/)
 
 ---
 
